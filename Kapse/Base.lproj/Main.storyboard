@@ -33,11 +33,11 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bcc" translatesAutoresizingMaskIntoConstraints="NO" id="95Z-Y4-c3d">
-                                <rect key="frame" x="63" y="154" width="233" height="241"/>
+                                <rect key="frame" x="63" y="328" width="233" height="67"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bcc" translatesAutoresizingMaskIntoConstraints="NO" id="NVc-xP-RhK">
-                                <rect key="frame" x="63" y="412" width="233" height="241"/>
+                                <rect key="frame" x="63" y="412" width="233" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
